@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "verispec-sdd": {
+      "command": "uv",
+      "args": ["run", "verispec", "mcp"],
+      "description": "Executable SPEC.md State-Machine Compiler, C++20 Reachability/Deadlock/Livelock Prover & Hypothesis/TypeScript Property-Test Synthesizer"
+    }
+  }
+}
